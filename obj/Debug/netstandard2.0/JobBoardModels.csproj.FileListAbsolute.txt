@@ -1,0 +1,8 @@
+C:\Users\redua\source\repos\JobBoardModels\bin\Debug\netstandard2.0\JobBoardModels.deps.json
+C:\Users\redua\source\repos\JobBoardModels\bin\Debug\netstandard2.0\JobBoardModels.dll
+C:\Users\redua\source\repos\JobBoardModels\obj\Debug\netstandard2.0\JobBoardModels.AssemblyInfoInputs.cache
+C:\Users\redua\source\repos\JobBoardModels\obj\Debug\netstandard2.0\JobBoardModels.AssemblyInfo.cs
+C:\Users\redua\source\repos\JobBoardModels\bin\Debug\netstandard2.0\JobBoardModels.pdb
+C:\Users\redua\source\repos\JobBoardModels\obj\Debug\netstandard2.0\JobBoardModels.csproj.CoreCompileInputs.cache
+C:\Users\redua\source\repos\JobBoardModels\obj\Debug\netstandard2.0\JobBoardModels.dll
+C:\Users\redua\source\repos\JobBoardModels\obj\Debug\netstandard2.0\JobBoardModels.pdb
